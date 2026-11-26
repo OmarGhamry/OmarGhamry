@@ -1,8 +1,8 @@
-# ⚔️ SHADOW MONARCH HQ
+# ⚔️ BLUE SHADOW MONARCH HQ
 
-> **Personal engineering command center** — a map of the systems, products, and experiments I'm building.
+> **Blue-themed personal engineering command center** — a map of the systems, products, and experiments I'm building.
 
-![Project Intelligence Map](assets/hq-dashboard.svg)
+![Animated Blue Project Intelligence Map](assets/blue-hq-dashboard.svg)
 
 ## 🧭 Choose your domain
 
@@ -62,7 +62,7 @@ These are project-based milestones, not rankings or claims of professional certi
 
 <div align="center">
 
-**THE SYSTEM IS NOT FINISHED. THE PLAYER IS STILL LEVELING UP.**
+**THE BLUE SYSTEM IS ONLINE. THE PLAYER IS STILL LEVELING UP.**
 
 [GitHub Profile](https://github.com/OmarGhamry) · [Portfolio](https://omarghamry.github.io/Omar_portfolio/)
 
