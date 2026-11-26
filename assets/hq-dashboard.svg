@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" fill="none">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="620" gradientUnits="userSpaceOnUse"><stop stop-color="#090511"/><stop offset=".5" stop-color="#170D2B"/><stop offset="1" stop-color="#080510"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C4B5FD"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+ <radialGradient id="orb"><stop stop-color="#8B5CF6" stop-opacity=".35"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#A78BFA" stroke-opacity=".075"/></pattern>
+</defs>
+<rect width="1200" height="620" rx="24" fill="url(#bg)"/><rect width="1200" height="620" rx="24" fill="url(#grid)"/>
+<ellipse cx="600" cy="300" rx="460" ry="300" fill="url(#orb)"/>
+<text x="54" y="62" fill="#A78BFA" font-family="monospace" font-size="13" letter-spacing="4">SHADOW MONARCH // COMMAND CENTER</text>
+<text x="54" y="108" fill="#F5F3FF" font-family="Arial,sans-serif" font-size="34" font-weight="800">PROJECT INTELLIGENCE MAP</text>
+<text x="56" y="137" fill="#A78BFA" font-family="monospace" font-size="12" letter-spacing="2">FOUR DOMAINS. ONE ENGINEERING JOURNEY.</text>
+<path d="M600 182V216M300 216H900M300 216V246M600 216V246M900 216V246" stroke="#A78BFA" stroke-opacity=".65" stroke-width="2"/>
+<circle cx="600" cy="182" r="7" fill="#C4B5FD"/><circle cx="300" cy="216" r="4" fill="#A78BFA"/><circle cx="600" cy="216" r="4" fill="#A78BFA"/><circle cx="900" cy="216" r="4" fill="#A78BFA"/>
+<g>
+ <rect x="54" y="246" width="350" height="245" rx="15" fill="#100A1D" stroke="#8B5CF6" stroke-opacity=".75"/>
+ <rect x="54" y="246" width="350" height="5" rx="2.5" fill="#A78BFA"/>
+ <text x="82" y="289" fill="#C4B5FD" font-family="monospace" font-size="12" letter-spacing="2">01 // SOFTWARE ENGINEERING</text>
+ <text x="82" y="334" fill="#F5F3FF" font-family="Arial" font-size="23" font-weight="700">Build the product</text>
+ <text x="82" y="369" fill="#C4B5FD" font-family="monospace" font-size="13">ASP.NET CORE · C# · WEB</text>
+ <path d="M82 396H376" stroke="#8B5CF6" stroke-opacity=".35"/>
+ <text x="82" y="426" fill="#DDD6FE" font-family="monospace" font-size="12">EDUCATIONAL PLATFORM</text>
+ <text x="82" y="450" fill="#DDD6FE" font-family="monospace" font-size="12">AERO E-COMMERCE</text>
+ <text x="82" y="474" fill="#DDD6FE" font-family="monospace" font-size="12">MOVIE TICKET SYSTEM</text>
+</g>
+<g>
+ <rect x="425" y="246" width="350" height="245" rx="15" fill="#100A1D" stroke="#8B5CF6" stroke-opacity=".75"/>
+ <rect x="425" y="246" width="350" height="5" rx="2.5" fill="#A78BFA"/>
+ <text x="453" y="289" fill="#C4B5FD" font-family="monospace" font-size="12" letter-spacing="2">02 // DATA &amp; INTELLIGENCE</text>
+ <text x="453" y="334" fill="#F5F3FF" font-family="Arial" font-size="23" font-weight="700">Find the signal</text>
+ <text x="453" y="369" fill="#C4B5FD" font-family="monospace" font-size="13">PYTHON · POWER BI · ML</text>
+ <path d="M453 396H747" stroke="#8B5CF6" stroke-opacity=".35"/>
+ <text x="453" y="426" fill="#DDD6FE" font-family="monospace" font-size="12">DATA JOB DASHBOARD</text>
+ <text x="453" y="450" fill="#DDD6FE" font-family="monospace" font-size="12">FOCUSDNA ML</text>
+ <text x="453" y="474" fill="#DDD6FE" font-family="monospace" font-size="12">NETFLIX / CAR SALES</text>
+</g>
+<g>
+ <rect x="796" y="246" width="350" height="245" rx="15" fill="#100A1D" stroke="#8B5CF6" stroke-opacity=".75"/>
+ <rect x="796" y="246" width="350" height="5" rx="2.5" fill="#A78BFA"/>
+ <text x="824" y="289" fill="#C4B5FD" font-family="monospace" font-size="12" letter-spacing="2">03 // SYSTEMS &amp; HARDWARE</text>
+ <text x="824" y="334" fill="#F5F3FF" font-family="Arial" font-size="23" font-weight="700">Make it tangible</text>
+ <text x="824" y="369" fill="#C4B5FD" font-family="monospace" font-size="13">ARDUINO · VHDL · DIGITAL</text>
+ <path d="M824 396H1118" stroke="#8B5CF6" stroke-opacity=".35"/>
+ <text x="824" y="426" fill="#DDD6FE" font-family="monospace" font-size="12">SMART ELEVATOR</text>
+ <text x="824" y="450" fill="#DDD6FE" font-family="monospace" font-size="12">CRYPTOGRAPHIC COPROCESSOR</text>
+ <text x="824" y="474" fill="#DDD6FE" font-family="monospace" font-size="12">HARDWARE LAB TASKS</text>
+</g>
+<rect x="54" y="522" width="1092" height="58" rx="10" fill="#1A1030" stroke="#8B5CF6" stroke-opacity=".4"/>
+<text x="82" y="557" fill="#C4B5FD" font-family="monospace" font-size="12" letter-spacing="2">CURRENT DIRECTIVE</text>
+<text x="360" y="557" fill="#F5F3FF" font-family="Arial" font-size="17" font-weight="700">Turn concepts into working systems — one commit at a time.</text>
+<text x="1104" y="604" fill="#6D5B89" font-family="monospace" font-size="10" text-anchor="end">OMAR GHAMRY // HQ-001</text>
+</svg>
