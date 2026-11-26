@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#080510"/><stop offset=".52" stop-color="#170B2C"/><stop offset="1" stop-color="#090512"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E9D5FF"/><stop offset=".48" stop-color="#A78BFA"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".42"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#A78BFA" stroke-opacity=".09" stroke-width="1"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<ellipse cx="920" cy="180" rx="270" ry="190" fill="url(#glow)"/>
+<circle cx="930" cy="180" r="126" stroke="#A78BFA" stroke-opacity=".2"/>
+<circle cx="930" cy="180" r="98" stroke="#A78BFA" stroke-opacity=".35" stroke-dasharray="3 9"/>
+<circle cx="930" cy="180" r="68" stroke="#C4B5FD" stroke-opacity=".5"/>
+<path d="M804 180H1056M930 54V306" stroke="#A78BFA" stroke-opacity=".22"/>
+<path d="M860 110L1000 250M1000 110L860 250" stroke="#A78BFA" stroke-opacity=".14"/>
+<path d="M930 92L954 143L991 158L966 195L970 252L930 226L890 252L894 195L869 158L906 143Z" fill="#160A2A" stroke="url(#violet)" stroke-width="2"/>
+<path d="M930 113L946 151L974 164L953 190L955 226L930 209L905 226L907 190L886 164L914 151Z" fill="#7C3AED" fill-opacity=".22"/>
+<path d="M930 131V208M904 165H956" stroke="#E9D5FF" stroke-opacity=".7" stroke-width="2"/>
+<circle cx="930" cy="180" r="4" fill="#F5F3FF"/>
+<g fill="#C4B5FD" font-family="monospace" font-size="10" letter-spacing="2"><text x="792" y="45">MONARCH CORE // ACTIVE</text><text x="1012" y="322">SYS. 001</text></g>
+<g stroke="#A78BFA" stroke-opacity=".45"><path d="M42 42H170M42 42V74M1158 42H1028M1158 42V74M42 318H170M42 318V286M1158 318H1028M1158 318V286"/></g>
+<g fill="#A78BFA"><circle cx="70" cy="102" r="2"/><circle cx="108" cy="126" r="1.5"/><circle cx="740" cy="74" r="2"/><circle cx="1100" cy="92" r="1.5"/><circle cx="1080" cy="270" r="2"/><circle cx="720" cy="292" r="1.5"/></g>
+<text x="76" y="116" fill="#A78BFA" font-family="monospace" font-size="13" letter-spacing="4">PLAYER PROFILE // ENGINEER CLASS</text>
+<text x="72" y="184" fill="#F5F3FF" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="800" letter-spacing="1">OMAR GHAMRY</text>
+<rect x="76" y="207" width="54" height="3" rx="1.5" fill="#A78BFA"/>
+<text x="76" y="246" fill="#DDD6FE" font-family="monospace" font-size="16" letter-spacing="1.4">SOFTWARE  /  DATA  /  EMBEDDED SYSTEMS</text>
+<text x="76" y="282" fill="#A78BFA" font-family="monospace" font-size="11" letter-spacing="2">ZAGAZIG UNIVERSITY  ·  COMPUTER &amp; SYSTEMS ENGINEERING</text>
+<text x="76" y="310" fill="#6D5B89" font-family="monospace" font-size="10" letter-spacing="2">[ SYSTEM ONLINE ]</text>
+</svg>
