@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#020817"/><stop offset=".52" stop-color="#071B36"/><stop offset="1" stop-color="#020817"/></linearGradient>
+ <linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E0F2FE"/><stop offset=".45" stop-color="#38BDF8"/><stop offset="1" stop-color="#1D4ED8"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#0EA5E9" stop-opacity=".4"/><stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#7DD3FC" stroke-opacity=".09"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<style>
+ @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+ @keyframes rotate{to{transform:rotate(360deg)}}
+ @keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+ @keyframes scan{0%{transform:translateY(-170px);opacity:0}15%{opacity:.6}85%{opacity:.6}100%{transform:translateY(360px);opacity:0}}
+ @keyframes flicker{0%,100%{opacity:.3}50%{opacity:.9}}
+ .pulse{animation:pulse 3s ease-in-out infinite}.orbit{transform-origin:930px 180px;animation:rotate 26s linear infinite}
+ .float{animation:drift 5s ease-in-out infinite}.scan{animation:scan 7s linear infinite}.spark{animation:flicker 2.4s ease-in-out infinite}
+ @media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<ellipse cx="930" cy="180" rx="280" ry="190" fill="url(#aura)" class="pulse"/>
+<g class="orbit"><circle cx="930" cy="180" r="128" stroke="#38BDF8" stroke-opacity=".35" stroke-dasharray="3 10"/><path d="M930 36V52M930 308V324M786 180H802M1058 180H1074" stroke="#BAE6FD" stroke-width="2"/></g>
+<circle cx="930" cy="180" r="96" stroke="#7DD3FC" stroke-opacity=".35" class="pulse"/><circle cx="930" cy="180" r="70" stroke="#BAE6FD" stroke-opacity=".45"/>
+<g class="float"><path d="M930 91L954 143L991 158L966 195L970 252L930 226L890 252L894 195L869 158L906 143Z" fill="#061A33" stroke="url(#ice)" stroke-width="2.5"/><path d="M930 113L946 151L974 164L953 190L955 226L930 209L905 226L907 190L886 164L914 151Z" fill="#0EA5E9" fill-opacity=".24"/><path d="M906 166L923 174L930 160L937 174L954 166" stroke="#E0F2FE" stroke-width="3" stroke-linecap="round"/></g>
+<circle cx="930" cy="180" r="4" fill="#E0F2FE" class="pulse"/>
+<g fill="#7DD3FC" font-family="monospace" font-size="10" letter-spacing="2"><text x="792" y="45">MONARCH CORE // ONLINE</text><text x="1012" y="322">SYS. 002</text></g>
+<g stroke="#38BDF8" stroke-opacity=".55"><path d="M42 42H170M42 42V74M1158 42H1028M1158 42V74M42 318H170M42 318V286M1158 318H1028M1158 318V286"/></g>
+<g fill="#BAE6FD" class="spark"><circle cx="70" cy="102" r="2"/><circle cx="108" cy="126" r="1.5"/><circle cx="740" cy="74" r="2"/><circle cx="1100" cy="92" r="1.5"/><circle cx="1080" cy="270" r="2"/><circle cx="720" cy="292" r="1.5"/></g>
+<text x="76" y="116" fill="#7DD3FC" font-family="monospace" font-size="13" letter-spacing="4">PLAYER PROFILE // ENGINEER CLASS</text>
+<text x="72" y="184" fill="#F0F9FF" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="800" letter-spacing="1">OMAR GHAMRY</text>
+<rect x="76" y="207" width="54" height="3" rx="1.5" fill="url(#ice)"/>
+<text x="76" y="246" fill="#BAE6FD" font-family="monospace" font-size="16" letter-spacing="1.4">SOFTWARE  /  DATA  /  EMBEDDED SYSTEMS</text>
+<text x="76" y="282" fill="#7DD3FC" font-family="monospace" font-size="11" letter-spacing="2">ZAGAZIG UNIVERSITY  ·  COMPUTER &amp; SYSTEMS ENGINEERING</text>
+<text x="76" y="310" fill="#38BDF8" font-family="monospace" font-size="10" letter-spacing="2">[ BLUE SYSTEM ONLINE ]</text>
+<rect x="0" y="0" width="1200" height="2" fill="#38BDF8" opacity=".25" class="scan"/>
+</svg>
