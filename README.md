@@ -20,6 +20,22 @@
 
 ---
 
+## 🏰 SHADOW MONARCH HQ
+
+<div align="center">
+
+<a href="COMMAND-CENTER.md">
+  <img src="./assets/hq-dashboard.svg" width="100%" alt="Shadow Monarch project intelligence map — software, data, and systems domains" />
+</a>
+
+<a href="COMMAND-CENTER.md"><img src="https://img.shields.io/badge/OPEN_COMMAND_CENTER-Explore_All_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Open command center" /></a>
+
+<sub>One map for my software, data, and hardware engineering journey.</sub>
+
+</div>
+
+---
+
 ## 🟣 SYSTEM PROFILE
 
 <table>
