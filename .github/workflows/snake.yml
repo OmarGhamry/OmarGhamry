@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Blue Shadow Snake Animation
 
 on:
   schedule:
@@ -17,18 +17,18 @@ concurrency:
 
 jobs:
   generate:
-    name: Generate contribution snake
+    name: Generate blue contribution snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Generate light and dark SVGs
+      - name: Generate light and dark blue SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#d8c9fb,#b794f6,#8b5cf6,#5b21b6
-            dist/github-snake-dark.svg?color_snake=#a855f7&color_dots=#14101f,#2e1065,#5b21b6,#7c3aed,#c4b5fd
+            dist/github-snake.svg?color_snake=#0284c7&color_dots=#e0f2fe,#bae6fd,#7dd3fc,#38bdf8,#0369a1
+            dist/github-snake-dark.svg?color_snake=#38bdf8&color_dots=#020817,#082f49,#075985,#0284c7,#7dd3fc
 
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
