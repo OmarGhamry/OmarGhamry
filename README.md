@@ -6,29 +6,29 @@
 
 <div align="center">
 
-<img src="./assets/shadow-monarch-banner.svg" width="100%" alt="Omar Ghamry — custom Shadow Monarch system profile banner" />
+<img src="./assets/blue-shadow-banner.svg" width="100%" alt="Omar Ghamry — custom Shadow Monarch system profile banner" />
 
-<a href="https://omarghamry.github.io/Omar_portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_GATE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/OmarGhamry?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-241044?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://omarghamry.github.io/Omar_portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_GATE-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/OmarGhamry?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-082F49?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 <a href="http://www.linkedin.com/in/omarghamry"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=45&lines=Building+software+that+solves+real+problems.;Turning+data+into+decisions.;Exploring+the+world+of+embedded+systems.;Always+learning.+Always+building." alt="Developer tagline animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&height=45&lines=Building+software+that+solves+real+problems.;Turning+data+into+decisions.;Exploring+the+world+of+embedded+systems.;Always+learning.+Always+building." alt="Developer tagline animation" />
 
 </div>
 
 ---
 
-## 🏰 SHADOW MONARCH HQ
+## 🏰 BLUE SHADOW MONARCH HQ
 
 <div align="center">
 
 <a href="COMMAND-CENTER.md">
-  <img src="./assets/hq-dashboard.svg" width="100%" alt="Shadow Monarch project intelligence map — software, data, and systems domains" />
+  <img src="./assets/blue-hq-dashboard.svg" width="100%" alt="Shadow Monarch project intelligence map — software, data, and systems domains" />
 </a>
 
-<a href="COMMAND-CENTER.md"><img src="https://img.shields.io/badge/OPEN_COMMAND_CENTER-Explore_All_Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Open command center" /></a>
+<a href="COMMAND-CENTER.md"><img src="https://img.shields.io/badge/OPEN_COMMAND_CENTER-Explore_All_Projects-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="Open command center" /></a>
 
 <sub>One map for my software, data, and hardware engineering journey.</sub>
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🟣 SYSTEM PROFILE
+## 🔷 SYSTEM PROFILE
 
 <table>
 <tr>
@@ -71,7 +71,7 @@ My approach is simple: learn by building, solve practical problems, and keep imp
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=OmarGhamry&style=for-the-badge&color=7c3aed&label=PROFILE+VISITORS" alt="Profile visitors" />
+<img src="https://komarev.com/ghpvc/?username=OmarGhamry&style=for-the-badge&color=0284c7&label=PROFILE+VISITORS" alt="Profile visitors" />
 
 </div>
 </td>
@@ -84,7 +84,7 @@ My approach is simple: learn by building, solve practical problems, and keep imp
 
 | SYSTEM MODULE | STATUS | ACTIVE TOOLSET |
 |:--|:--:|:--|
-| **Application Engineering** | 🟣 ONLINE | C# · ASP.NET Core · React |
+| **Application Engineering** | 🔵 ONLINE | C# · ASP.NET Core · React |
 | **Data Intelligence** | 🟣 ONLINE | Python · SQL · Power BI |
 | **Embedded Systems** | 🟡 IN DEVELOPMENT | Arduino · ESP32 · Proteus |
 | **Machine Learning** | 🟡 IN DEVELOPMENT | Pandas · NumPy · scikit-learn |
@@ -129,22 +129,22 @@ A selection of projects across software engineering, data, machine learning, and
 <div align="center">
 
 <a href="https://github.com/OmarGhamry/Educational-Platform">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Educational-Platform&theme=midnight-purple&hide_border=true" alt="Educational Platform repository card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Educational-Platform&theme=tokyonight&hide_border=true" alt="Educational Platform repository card" />
 </a>
 <a href="https://github.com/OmarGhamry/Smart-Elevator-Control-System">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Smart-Elevator-Control-System&theme=midnight-purple&hide_border=true" alt="Smart Elevator Control System repository card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Smart-Elevator-Control-System&theme=tokyonight&hide_border=true" alt="Smart Elevator Control System repository card" />
 </a>
 <a href="https://github.com/OmarGhamry/Data-Job-Dashboard">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Data-Job-Dashboard&theme=midnight-purple&hide_border=true" alt="Data Job Dashboard repository card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Data-Job-Dashboard&theme=tokyonight&hide_border=true" alt="Data Job Dashboard repository card" />
 </a>
 <a href="https://github.com/OmarGhamry/HCIA_FocusDNA_ML">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=HCIA_FocusDNA_ML&theme=midnight-purple&hide_border=true" alt="FocusDNA ML repository card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=HCIA_FocusDNA_ML&theme=tokyonight&hide_border=true" alt="FocusDNA ML repository card" />
 </a>
 <a href="https://github.com/OmarGhamry/Netflix_DashBoasrd">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Netflix_DashBoasrd&theme=midnight-purple&hide_border=true" alt="Netflix Analysis repository card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Netflix_DashBoasrd&theme=tokyonight&hide_border=true" alt="Netflix Analysis repository card" />
 </a>
 <a href="https://github.com/OmarGhamry/Cryptographic_Coprocessor">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Cryptographic_Coprocessor&theme=midnight-purple&hide_border=true" alt="Cryptographic Coprocessor repository card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarGhamry&repo=Cryptographic_Coprocessor&theme=tokyonight&hide_border=true" alt="Cryptographic Coprocessor repository card" />
 </a>
 
 </div>
@@ -196,16 +196,16 @@ A selection of projects across software engineering, data, machine learning, and
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=OmarGhamry&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGhamry&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=OmarGhamry&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarGhamry&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<img width="75%" src="https://streak-stats.demolab.com?user=OmarGhamry&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=OmarGhamry&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarGhamry&bg_color=0d0718&color=c4b5fd&line=7c3aed&point=e9d5ff&area=true&hide_border=true&custom_title=SHADOW%20ENERGY%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarGhamry&bg_color=020817&color=7dd3fc&line=0284c7&point=e0f2fe&area=true&hide_border=true&custom_title=SHADOW%20ENERGY%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
-## 🐍 THE SHADOW SERPENT
+## 🐍 THE BLUE SHADOW SERPENT
 
 <div align="center">
 
@@ -223,7 +223,7 @@ A selection of projects across software engineering, data, machine learning, and
 
 **Have an idea, a project, or an opportunity? Let's build something meaningful.**
 
-<a href="https://omarghamry.github.io/Omar_portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://omarghamry.github.io/Omar_portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="http://www.linkedin.com/in/omarghamry"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:omarghamry2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -231,6 +231,6 @@ A selection of projects across software engineering, data, machine learning, and
 
 ### 🌑 ARISE.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:7c3aed,55:241044,100:080510" width="100%" alt="Purple wave footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0284c7,55:082F49,100:080510" width="100%" alt="Purple wave footer" />
 
 </div>
