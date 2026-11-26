@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080510,45:241044,100:7c3aed&text=OMAR%20GHAMRY&fontSize=58&fontColor=F5EFFF&fontAlignY=38&desc=COMPUTER%20%26%20SYSTEMS%20ENGINEERING%20%7C%20SOFTWARE%20%7C%20DATA&descSize=14&descAlignY=59&descColor=C4B5FD&animation=fadeIn" width="100%" alt="Omar Ghamry — Shadow Monarch theme banner" />
+<img src="./assets/shadow-monarch-banner.svg" width="100%" alt="Omar Ghamry — custom Shadow Monarch system profile banner" />
 
 <a href="https://omarghamry.github.io/Omar_portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-ENTER_THE_GATE-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/OmarGhamry?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-241044?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
@@ -61,6 +61,23 @@ My approach is simple: learn by building, solve practical problems, and keep imp
 </td>
 </tr>
 </table>
+
+## 🖥️ THE SYSTEM INTERFACE
+
+<div align="center">
+
+| SYSTEM MODULE | STATUS | ACTIVE TOOLSET |
+|:--|:--:|:--|
+| **Application Engineering** | 🟣 ONLINE | C# · ASP.NET Core · React |
+| **Data Intelligence** | 🟣 ONLINE | Python · SQL · Power BI |
+| **Embedded Systems** | 🟡 IN DEVELOPMENT | Arduino · ESP32 · Proteus |
+| **Machine Learning** | 🟡 IN DEVELOPMENT | Pandas · NumPy · scikit-learn |
+
+<sub>STATUS IS A SNAPSHOT OF MY LEARNING JOURNEY — NOT A CLAIM OF EXPERTISE.</sub>
+
+</div>
+
+> **CORE DIRECTIVE:** Build things that work. Understand how they work. Make the next version better.
 
 ## 🎯 CURRENT MISSION
 
